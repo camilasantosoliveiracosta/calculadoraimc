@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/primary_400"
-        android:text= "A Classificação Do Seu IMC é:" />
+        android:textString="A Classificação Do Seu IMC é:" />
 
     <TextView
         android:id="@+id/tv_Classificacao"
